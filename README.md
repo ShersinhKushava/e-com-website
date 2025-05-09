@@ -3,4 +3,6 @@ This is e commerce website make using php
 <br>
 Author - Shersinh kushava
 
-lamba le kamba
+# e-commerce website
+This is an e-commerce website made using PHP.
+Author - Shersinh Kushava
